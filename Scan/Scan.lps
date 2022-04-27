@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="Scan.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="1"/>
+        <CursorPos X="15" Y="13"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="unit1.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form1"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="Unit1"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="59"/>
+        <CursorPos X="15" Y="76"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="mem.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="2"/>
+        <TopLine Value="111"/>
+        <CursorPos X="87" Y="134"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="29">
+      <Position>
+        <Filename Value="mem.pas"/>
+        <Caret Line="105" TopLine="81"/>
+      </Position>
+      <Position>
+        <Filename Value="mem.pas"/>
+        <Caret Line="96" TopLine="81"/>
+      </Position>
+      <Position>
+        <Filename Value="mem.pas"/>
+        <Caret Line="105" TopLine="81"/>
+      </Position>
+      <Position>
+        <Filename Value="mem.pas"/>
+        <Caret Line="96" TopLine="81"/>
+      </Position>
+      <Position>
+        <Filename Value="mem.pas"/>
+        <Caret Line="105" TopLine="81"/>
+      </Position>
+      <Position>
+        <Filename Value="mem.pas"/>
+        <Caret Line="96" TopLine="81"/>
+      </Position>
+      <Position>
+        <Filename Value="mem.pas"/>
+        <Caret Line="105" TopLine="81"/>
+      </Position>
+      <Position>
+        <Filename Value="mem.pas"/>
+        <Caret Line="96" TopLine="81"/>
+      </Position>
+      <Position>
+        <Filename Value="mem.pas"/>
+        <Caret Line="105" TopLine="81"/>
+      </Position>
+      <Position>
+        <Filename Value="mem.pas"/>
+        <Caret Line="96" TopLine="81"/>
+      </Position>
+      <Position>
+        <Filename Value="mem.pas"/>
+        <Caret Line="105" TopLine="81"/>
+      </Position>
+      <Position>
+        <Filename Value="mem.pas"/>
+        <Caret Line="96" TopLine="81"/>
+      </Position>
+      <Position>
+        <Filename Value="mem.pas"/>
+        <Caret Line="105" TopLine="81"/>
+      </Position>
+      <Position>
+        <Filename Value="mem.pas"/>
+        <Caret Line="96" TopLine="81"/>
+      </Position>
+      <Position>
+        <Filename Value="mem.pas"/>
+        <Caret Line="105" TopLine="81"/>
+      </Position>
+      <Position>
+        <Filename Value="mem.pas"/>
+        <Caret Line="96" TopLine="81"/>
+      </Position>
+      <Position>
+        <Filename Value="mem.pas"/>
+        <Caret Line="105" TopLine="81"/>
+      </Position>
+      <Position>
+        <Filename Value="mem.pas"/>
+        <Caret Line="96" TopLine="81"/>
+      </Position>
+      <Position>
+        <Filename Value="mem.pas"/>
+        <Caret Line="105" TopLine="81"/>
+      </Position>
+      <Position>
+        <Filename Value="mem.pas"/>
+        <Caret Line="96" TopLine="81"/>
+      </Position>
+      <Position>
+        <Filename Value="mem.pas"/>
+        <Caret Line="105" TopLine="81"/>
+      </Position>
+      <Position>
+        <Filename Value="mem.pas"/>
+        <Caret Line="96" TopLine="81"/>
+      </Position>
+      <Position>
+        <Filename Value="mem.pas"/>
+        <Caret Line="105" TopLine="81"/>
+      </Position>
+      <Position>
+        <Filename Value="mem.pas"/>
+        <Caret Line="96" TopLine="81"/>
+      </Position>
+      <Position>
+        <Filename Value="mem.pas"/>
+        <Caret Line="105" TopLine="81"/>
+      </Position>
+      <Position>
+        <Filename Value="mem.pas"/>
+        <Caret Line="96" TopLine="81"/>
+      </Position>
+      <Position>
+        <Filename Value="mem.pas"/>
+        <Caret Line="105" TopLine="81"/>
+      </Position>
+      <Position>
+        <Filename Value="mem.pas"/>
+        <Caret Line="96" TopLine="81"/>
+      </Position>
+      <Position>
+        <Filename Value="mem.pas"/>
+        <Caret Line="105" TopLine="81"/>
+      </Position>
+      <Position>
+        <Filename Value="mem.pas"/>
+        <Caret Line="96" TopLine="81"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+  <Debugging>
+    <BreakPoints>
+      <Item>
+        <Kind Value="bpkSource"/>
+        <WatchScope Value="wpsLocal"/>
+        <WatchKind Value="wpkWrite"/>
+        <Source Value="unit1.pas"/>
+        <Line Value="85"/>
+      </Item>
+    </BreakPoints>
+  </Debugging>
+</CONFIG>

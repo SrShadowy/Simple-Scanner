@@ -1,0 +1,101 @@
+object Form1: TForm1
+  Left = 291
+  Height = 487
+  Top = 250
+  Width = 416
+  Caption = 'Form1'
+  ClientHeight = 487
+  ClientWidth = 416
+  OnShow = FormShow
+  object btn_new: TButton
+    Left = 224
+    Height = 27
+    Top = 88
+    Width = 86
+    Caption = 'New'
+    OnClick = btn_newClick
+    TabOrder = 0
+  end
+  object btn_next: TButton
+    Left = 325
+    Height = 27
+    Top = 88
+    Width = 86
+    Caption = 'Next'
+    OnClick = btn_nextClick
+    TabOrder = 1
+  end
+  object edt_value: TEdit
+    Left = 224
+    Height = 23
+    Top = 123
+    Width = 184
+    TabOrder = 2
+  end
+  object cb_type: TComboBox
+    Left = 224
+    Height = 23
+    Top = 159
+    Width = 184
+    ItemHeight = 15
+    ItemIndex = 2
+    Items.Strings = (
+      'Byte'
+      '2Byte'
+      '4Byte'
+      '8Byte'
+      'String'
+      'AOB'
+    )
+    TabOrder = 3
+    Text = '4Byte'
+  end
+  object ListBox1: TListBox
+    Left = 0
+    Height = 392
+    Top = 88
+    Width = 216
+    ItemHeight = 0
+    TabOrder = 4
+  end
+  object lbl_list: TLabel
+    Left = 224
+    Height = 15
+    Top = 250
+    Width = 15
+    Caption = '0   '
+  end
+  object btn_ulist: TButton
+    Left = 224
+    Height = 25
+    Top = 280
+    Width = 184
+    Caption = 'Update List'
+    OnClick = btn_ulistClick
+    TabOrder = 5
+  end
+  object btn_atc: TButton
+    Left = 333
+    Height = 25
+    Top = 8
+    Width = 75
+    Caption = 'Attch'
+    OnClick = btn_atcClick
+    TabOrder = 6
+  end
+  object edt_pid: TEdit
+    Left = 112
+    Height = 23
+    Top = 10
+    Width = 160
+    NumbersOnly = True
+    TabOrder = 7
+  end
+  object Label1: TLabel
+    Left = 24
+    Height = 15
+    Top = 18
+    Width = 21
+    Caption = 'PID:'
+  end
+end
